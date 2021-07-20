@@ -1,9 +1,20 @@
 # DP203
 Azure Data Engineer
 
+ToLearn
+
 https://docs.microsoft.com/en-us/learn/browse/
 
+To Schedule Exam
+
+
 https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203
+
+This is to Refer to Advanced DP-203 Labs
+
+
+https://github.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure
+
 
 DP 203 Module 1 Quiz
 https://forms.office.com/r/iVeq5yn3XA
