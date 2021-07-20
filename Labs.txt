@@ -1,0 +1,96 @@
+https://github.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure
+********************************************************************************************************************
+Module - 4
+serverless SQL pool
+======================
+Analyze data with a serverless SQL pool
+--------------------------------------
+https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-sql-on-demand
+
+Create Logical Data Warehouse with serverless SQL pool
+--------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-logical-data-warehouse
+
+********************************************************************************************************************
+Module - 4
+Analyze data with dedicated SQL pools:
+============================================
+https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-sql-pool
+
+********************************************************************************************************************
+Module - 5
+--------------------------
+Analyze with Apache Spark
+============================================
+https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-spark
+
+Analyze data in a storage account (Spark Pool)
+--------------------------------------------
+https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-storage
+
+Create, develop, and maintain Synapse notebooks in Azure Synapse Analytics
+----------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks?tabs=classical#create-a-notebook
+
+********************************************************************************************************************
+Module-6 DataBricks
+--------------------------
+Work with Notebooks
+----------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/5-exercise-work-notebooks?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.wwl.data-engineer-azure-databricks
+
+Read data in CSV format
+----------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/2-read-data-csv-format
+
+Read data in JSON format
+----------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/3-read-data-json-format
+
+Read data in Parquet format
+----------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/4-read-data-parquet-format
+
+Read data stored in tables and views
+----------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/5-read-data-stored-tables-views
+
+Write data
+----------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/6-write-data
+
+Read and write data
+----------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/7-exercises
+********************************************************************************************************************
+
+Module - 7
+-----------
+Transform data using mapping data flows
+============================================
+https://docs.microsoft.com/en-us/azure/synapse-analytics/quickstart-data-flow
+
+********************************************************************************************************************
+Module - 8
+-----------Reference : https://docs.microsoft.com/en-us/azure/data-factory/data-factory-tutorials
+
+
+Incrementally load data from Azure SQL Database to Azure Blob Storage using change tracking information using the Azure portal
+-----------------------------------------------------------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/data-factory/tutorial-incremental-copy-change-tracking-feature-portal
+
+
+
+********************************************************************************************************************
+Module - 9
+-----------
+https://docs.microsoft.com/en-us/azure/data-factory/transform-data-using-databricks-notebook
+********************************************************************************************************************
+
+Visualize data with Power BI
+============================================
+https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started-visualize-power-bi
+
+********************************************************************************************************************
+
+
