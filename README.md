@@ -16,6 +16,11 @@ This is to Refer to Advanced DP-203 Labs
 https://github.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure
 
 
+For Latest Actual Exam Questions 
+
+https://www.examtopics.com/exams/microsoft/dp-203/view/
+
+
 DP 203 Module 1 Quiz
 https://forms.office.com/r/iVeq5yn3XA
 ---------------------------------------------------------
